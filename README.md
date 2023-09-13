@@ -4,5 +4,5 @@ Linql is a next generation graph api library.  It's primary goal is to provide l
 
 # This project has moved 
 
-[LinqlLang](https://github.com/LinqlLang/Linql)
+Linql was split into smaller modules to make it easier to work with.  It has been moved to an organziation: [LinqlLang](https://github.com/LinqlLang/Linql).
 
